@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+My name is Agnieszka and I'm a Computer Science student at Poznan University of Technology.
+
+- 🌱 I’m currently learning HTML, CSS and Kotlin
+- 📫 How to reach me: agnieszkagrzymska1412@gmail.com
 
 <!--
 **agnieszka142/agnieszka142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
