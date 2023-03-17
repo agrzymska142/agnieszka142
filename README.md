@@ -22,6 +22,10 @@ Languages:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
+<!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agnieszka142&show_icons=true&locale=en&layout=compact" alt="agnieszka142" /></p>
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **agnieszka142/agnieszka142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
