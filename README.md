@@ -5,6 +5,7 @@ My name is Agnieszka and I'm a Computer Science student at Poznan University of 
 - 📫 How to reach me: agnieszkagrzymska1412@gmail.com
 
 ---
+
 <div align="center">
   Languages:
   <div>
