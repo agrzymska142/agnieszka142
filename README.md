@@ -1,7 +1,7 @@
 ### Hi there! 👋
 My name is Agnieszka and I'm a Computer Science student at Poznan University of Technology.
 
-- 🌱 I’m currently learning ASP.NET Core
+- 🌱 I’m currently learning ASP.NET Core and Java Spring Boot
 - 📫 How to reach me: agnieszkagrzymska1412@gmail.com
 
 ---
