@@ -21,6 +21,10 @@ Languages:
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=agrzymska142&theme=react&hide_border=false)<br/>
+
 <!--
 **agnieszka142/agnieszka142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
