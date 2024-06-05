@@ -23,7 +23,7 @@ Languages:
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=agrzymska142&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=agrzymska142&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <!--
 **agnieszka142/agnieszka142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
